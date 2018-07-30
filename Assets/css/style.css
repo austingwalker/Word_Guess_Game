@@ -1,0 +1,57 @@
+* {
+	box-sizing: border-box;
+}
+
+body {
+    font-family: sans-serif;
+}
+
+h1, p {
+	text-align: center;
+}
+
+h1 {
+    font-family: 'Fredoka One', cursive;
+	font-size: 50px;
+}
+
+p {
+	font-family: 'Fredoka One', cursive;
+	font-size: 18px;
+}
+
+.wrapper {
+	width: 100%;
+	margin-top: 70px;
+}
+
+.container {
+	max-width: 700px;
+	margin: 0 auto;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* .wrapper {
+    box-sizing: content-box;
+    width: 15%;
+    border: solid #5B6DCD 10px;
+    padding: 5px;
+    text-align: center;
+    
+}
+
+body {
+    background-image: url("https://www.mymilestone.com/blog/wp-content/uploads/2017/12/forecast-1.jpg");
+    background-size: 2200px;
+} */
